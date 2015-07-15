@@ -1,0 +1,8 @@
+UCB Astro 2015 Kaggle Competion
+
+Folder layout:
+./data/
+  /test/*.csv
+  /train/*.csv
+./submissions/
+ <all attempted submissions>
