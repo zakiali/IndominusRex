@@ -4,5 +4,7 @@ Folder layout:
 ./data/
   /test/*.csv
   /train/*.csv
+./code/
+ all code!
 ./submissions/
  <all attempted submissions>
